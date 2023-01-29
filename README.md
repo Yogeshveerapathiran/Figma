@@ -33,11 +33,18 @@ Figma
 
 ## code:
 ```
+#FFFFFF
+#000000
+#D9D9D9
+#FFFCFC
+#0B0A0A
+2 more
 /* HOME */
 position: relative;
 width: 360px;
 height: 640px;
 background: #100F0F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
 /* JOIN OUR COMMUNITY */
@@ -45,6 +52,7 @@ position: relative;
 width: 360px;
 height: 640px;
 background: #101010;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
 /* COMMUNITY PAGE */
@@ -52,6 +60,7 @@ position: relative;
 width: 360px;
 height: 640px;
 background: #0B0A0A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 ```
 ## OUTPUT:
 ![Output](./out1.png)
